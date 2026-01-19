@@ -1,0 +1,15 @@
+import {useMediaQuery} from 'react-responsive';
+
+
+
+export const useResponsiveSize = (baseSize : number) => {
+    const isPhone = useMediaQuery({maxWidth : 480});
+    const isTablet = useMediaQuery({minWidth : 481,maxWidth : 1024});
+    if(isPhone) {
+        return baseSize * 1.25;
+    }
+    if(isTablet){
+        return baseSize * 1.25;
+    }
+    return baseSize;
+} 

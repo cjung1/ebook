@@ -5,7 +5,7 @@ This template should help get you started developing with Tauri in vanilla HTML,
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-- Đănh nhập 
+- Đăng nhập 
 <img width="1358" height="762" alt="Chụp màn hình từ 2026-01-19 10-41-40" src="https://github.com/user-attachments/assets/8430b529-d625-462e-9714-532dc1636ffa" />
 - Đăng xuất và nâng cấp tài khoản
 <img width="1358" height="762" alt="Chụp màn hình từ 2026-01-19 10-43-25" src="https://github.com/user-attachments/assets/67ed5cad-e64a-431a-8fcd-b90789ea158d" />
